@@ -11,6 +11,7 @@ This project demonstrates how Bash scripts can be used to inspect network interf
 
 # Architecture project
 
+'''
 Developer
 ↓
 Bash Scripts
@@ -20,12 +21,15 @@ Linux System
 Network Interfaces
 ↓
 Output (Terminal)
+'''
 
 ## Project Structure
 
+'''
 .
 ├── network-interface-checker.sh
 └── README.md
+'''
 
 # How to run
 1. https://github.com/romanchernukha8-ctrl/network-tools.git
